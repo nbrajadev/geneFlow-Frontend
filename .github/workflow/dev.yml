@@ -1,1 +1,8 @@
+name: Codeguard Scan
 
+
+on:
+   pull_request:
+     branches:
+       - main
+       
